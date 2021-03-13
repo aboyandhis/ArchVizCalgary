@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Alien\\Documents\\UE4_Projects\\ArchVizCalgary\\Source\\ArchVizCalgary\\ArchVizCalgary.Build.cs",
+		"D:\\Alien\\Documents\\UE4_Projects\\ArchVizCalgary\\Source\\ArchVizCalgary.Target.cs",
+		"D:\\Alien\\Documents\\UE4_Projects\\ArchVizCalgary\\Source\\ArchVizCalgaryEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ArchVizCalgary",
+			"Path": "D:\\Alien\\Documents\\UE4_Projects\\ArchVizCalgary\\Source\\ArchVizCalgary.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArchVizCalgaryEditor",
+			"Path": "D:\\Alien\\Documents\\UE4_Projects\\ArchVizCalgary\\Source\\ArchVizCalgaryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

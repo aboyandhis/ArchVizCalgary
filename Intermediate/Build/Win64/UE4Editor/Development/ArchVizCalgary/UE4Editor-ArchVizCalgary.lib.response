@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ArchVizCalgary.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Alien\Documents\UE4_Projects\ArchVizCalgary\Intermediate\Build\Win64\ArchVizCalgaryEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Alien\Documents\UE4_Projects\ArchVizCalgary\Intermediate\Build\Win64\UE4Editor\Development\ArchVizCalgary\ArchVizCalgary.cpp.obj"
+"D:\Alien\Documents\UE4_Projects\ArchVizCalgary\Intermediate\Build\Win64\UE4Editor\Development\ArchVizCalgary\ArchVizCalgaryGameModeBase.cpp.obj"
+"D:\Alien\Documents\UE4_Projects\ArchVizCalgary\Intermediate\Build\Win64\UE4Editor\Development\ArchVizCalgary\ArchVizCalgary.init.gen.cpp.obj"
+"D:\Alien\Documents\UE4_Projects\ArchVizCalgary\Intermediate\Build\Win64\UE4Editor\Development\ArchVizCalgary\ArchVizCalgaryGameModeBase.gen.cpp.obj"
+"D:\Alien\Documents\UE4_Projects\ArchVizCalgary\Intermediate\Build\Win64\UE4Editor\Development\ArchVizCalgary\Default.rc2.res"
+/OUT:"D:\Alien\Documents\UE4_Projects\ArchVizCalgary\Intermediate\Build\Win64\UE4Editor\Development\ArchVizCalgary\UE4Editor-ArchVizCalgary.lib"
+/INCLUDE:IMPLEMENT_MODULE_ArchVizCalgary

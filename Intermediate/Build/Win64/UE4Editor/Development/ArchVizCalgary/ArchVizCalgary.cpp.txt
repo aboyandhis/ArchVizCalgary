@@ -1,0 +1,2 @@
+D:\Alien\Documents\UE4_Projects\ArchVizCalgary\Intermediate\Build\Win64\UE4Editor\Development\ArchVizCalgary\Definitions.ArchVizCalgary.h
+D:\Alien\Documents\UE4_Projects\ArchVizCalgary\Source\ArchVizCalgary\ArchVizCalgary.h

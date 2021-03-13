@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ArchVizCalgary.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8619594A-6157-4DDA-B4EB-C0B4FEECB8EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ArchVizCalgary.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ArchVizCalgaryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8F828B31-3E03-4E5C-A882-699BE1F101D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ArchVizCalgary">
+      <UniqueIdentifier>{BD5AAB53-64FD-4951-A2E1-63327D7125EA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ArchVizCalgary\ArchVizCalgary.Build.cs">
+      <Filter>Source\ArchVizCalgary</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ArchVizCalgary\ArchVizCalgary.cpp">
+      <Filter>Source\ArchVizCalgary</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArchVizCalgary\ArchVizCalgary.h">
+      <Filter>Source\ArchVizCalgary</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ArchVizCalgary\ArchVizCalgaryGameModeBase.cpp">
+      <Filter>Source\ArchVizCalgary</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArchVizCalgary\ArchVizCalgaryGameModeBase.h">
+      <Filter>Source\ArchVizCalgary</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
